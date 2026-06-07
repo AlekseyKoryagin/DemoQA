@@ -68,7 +68,6 @@
                 <artifactId>allure-junit5</artifactId>
                 <version>${allure-junit5.version}</version>
             </dependency>
-
         </dependencies>
     </dependencyManagement>
 
